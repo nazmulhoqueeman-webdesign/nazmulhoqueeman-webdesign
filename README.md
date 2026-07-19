@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nazmul Hoque Eman</h1>
 <h3 align="center">I am a passionate Web Developer, Web Designer, and WordPress Expert dedicated to crafting beautiful, high-performing custom websites.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nazmulhoqueeman-webdesign&label=Profile%20views&color=0e75b6&style=flat" alt="nazmulhoqueeman-webdesign" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=nazmulhoqueeman-webdesign&label=Profile%20views&color=0e75b6&style=flat" alt="nazmulhoqueeman-webdesign](https://media.licdn.com/dms/image/v2/D5616AQF19QoWMDN9yw/profile-displaybackgroundimage-shrink_350_1400/B56Z9mtKCvIoAU-/0/1784134541757?e=1785974400&v=beta&t=vMdCAukBSMMdL_kK5p3vc0xa8aCiZxebb9opIaQmQmE)" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nazmulhoqueeman-webdesign" alt="nazmulhoqueeman-webdesign" /></a> </p>
 
